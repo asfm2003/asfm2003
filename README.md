@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
+<img src="https://www.svgrepo.com/show/373541/cuda.svg" height="30" alt="cuda logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo" />
   <img width="12" />
@@ -66,8 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo" />
+  <img width="12" />
 </div>
-
 
 ###
 
