@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">AI in Healthcare | Computer Vision | Digital Image Processing</h2>
+<h2 align="center"> Real-time ML Pipelines | AI in Healthcare | Computer Vision </h2>
 
 ###
 
